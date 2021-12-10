@@ -1,4 +1,4 @@
-This is the portfolio project showcasing my data analysis skills.
+#This is the portfolio project showcasing my data analysis skills
 In this project, you can find my SQL codes and Tableau dashboard sample.
 The purpose of this project is to explore the Covid_19 Deaths rate among many countries in the world, including Vietnam.
 The dataset is downloaded from "https://ourworldindata.org/coronavirus". In this example, we only look at the deaths count and death rate.
